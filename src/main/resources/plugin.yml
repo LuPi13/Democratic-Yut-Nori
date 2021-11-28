@@ -1,11 +1,11 @@
-name: GreenLightRedLight
+name: DemocracyYutnori
 version: ${project.version}
-main: yasking.lupi13.greenlightredlight.GreenLightRedLight
+main: yasking.lupi13.democracyyutnori.DemocracyYutnori
 api-version: 1.17
 authors: [ LuPi13 ]
-description: JangHyunUk Gundae Present
+description: 140percent democratic Yut-Nori
 website: https://github.com/LuPi13
 commands:
-  glrl:
-    description: Starts GLRL
+  yut:
+    description: Starts Yut-Nori
     usage: /<command>
